@@ -1,6 +1,6 @@
 # online-shopping-simulation
 
-This project simulates a simple online shopping system using Java and design patterns. 
+This project simulates a simple online shopping system using Java and design patterns.  
 The following design patterns are implemented:
 
 - **Singleton**: Manages a shopping cart with a list of products.
@@ -49,21 +49,21 @@ The following design patterns are implemented:
    - Order status changes trigger notifications to observers via Email or SMS.
 
 ## 🔍 Example Output:
-Headphones added to the shopping cart.
-Sweatshirt added to the shopping cart.
-Shopping Cart Contents:
--> Headphones, Price: 2000.0
--> Sweatshirt, Price: 500.0
-Sweatshirt removed from the shopping cart.
-Shopping Cart Contents:
--> Headphones, Price: 2000.0
-Product Name: Headphones - 20% off 
-Discounted Price: 1600.0
-Payment Status:
-You paid with credit card and completed successfully!
-3 installments were made.
-Order Status:
-Email: Order status updated -> DELIVERED
+Headphones added to the shopping cart.  
+Sweatshirt added to the shopping cart.  
+Shopping Cart Contents:  
+-> Headphones, Price: 2000.0  
+-> Sweatshirt, Price: 500.0  
+Sweatshirt removed from the shopping cart.  
+Shopping Cart Contents:  
+-> Headphones, Price: 2000.0  
+Product Name: Headphones - 20% off   
+Discounted Price: 1600.0  
+Payment Status:  
+You paid with credit card and completed successfully!  
+3 installments were made.  
+Order Status:  
+Email: Order status updated -> DELIVERED  
 SMS: Order status updated -> DELIVERED
 
 
