@@ -44,7 +44,7 @@ The following design patterns are implemented:
 
 ### 3. **Payment Methods**
    - You can simulate different payment methods (Credit Card, Debit Card, Cash on Delivery).
-   - 
+
 ### 4. **Order Notifications**
    - Order status changes trigger notifications to observers via Email or SMS.
 
